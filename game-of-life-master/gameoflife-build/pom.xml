@@ -9,4 +9,4 @@
     <artifactId>gameoflife-build</artifactId>
     <packaging>jar</packaging>
     <name>gameoflife-build</name>
-</project>
+	</project>
